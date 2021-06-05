@@ -1,0 +1,30 @@
+*{
+  padding: 0px;
+  margin: 0;
+  box-sizing: border-box;
+ 
+}
+body {
+  background-color: #fff !important;
+  margin: 0;
+  font-family: 'Georgia', sans-serif !important;
+  font-weight: 500;
+  
+}
+
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+img,
+strong,
+p,
+i {
+  padding: 0px;
+  margin: 0;
+  font: 100,200,300;
+}
